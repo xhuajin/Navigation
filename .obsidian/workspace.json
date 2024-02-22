@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "54a7d0c603b77e0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d08be6af8c04f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eebc7d80a05540a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "949b82d790b72ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0320d95e471d6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6166476370fa20e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31f76a5c08ca3c09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86082067c122e224",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "337e600255e0b09f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5474463f48a55d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fe2c343cf01c5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "219c370882262c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0cf2bd2a8b5184c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a61662b10798b22d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eebc7d80a05540a3",
+  "lastOpenFiles": [
+    "node_modules/@types/json-schema/package.json",
+    "node_modules/typescript/package.json",
+    "node_modules/tslib/package.json",
+    "node_modules/obsidian/package.json",
+    "node_modules/esbuild/package.json",
+    "node_modules/builtin-modules/package.json",
+    "node_modules/tsutils/node_modules/tslib/test/validateModuleExportsMatchCommonJS/package.json",
+    "node_modules/tsutils/node_modules/tslib/test/validateModuleExportsMatchCommonJS/index.js",
+    "node_modules/tsutils/node_modules/tslib/test/validateModuleExportsMatchCommonJS",
+    "node_modules/tsutils/node_modules/tslib/test",
+    "node_modules/tslib/modules/package.json",
+    "node_modules/json-schema-traverse/README.md",
+    "node_modules/esutils/README.md",
+    "node_modules/strip-ansi/readme.md",
+    "node_modules/natural-compare/README.md",
+    "node_modules/minimatch/README.md",
+    "node_modules/lodash.merge/README.md",
+    "node_modules/is-path-inside/readme.md",
+    "node_modules/@esbuild/win32-x64/README.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/typescript/CODE_OF_CONDUCT.md",
+    "node_modules/typescript/AUTHORS.md",
+    "node_modules/ajv/README.md",
+    "node_modules/typescript/lib/README.md",
+    "node_modules/ajv/lib/dotjs/README.md",
+    "node_modules/acorn/CHANGELOG.md",
+    "node_modules/regexpp/README.md",
+    "node_modules/@nodelib/fs.walk/README.md",
+    "node_modules/fastq/README.md",
+    "node_modules/eslint/node_modules/estraverse/README.md",
+    "node_modules/eslint-visitor-keys/README.md",
+    "node_modules/globby/readme.md",
+    "node_modules/cross-spawn/README.md",
+    "node_modules/cross-spawn/CHANGELOG.md",
+    "node_modules/levn/README.md"
+  ]
+}

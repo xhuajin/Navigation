@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "navigation",
+	"name": "Navigation",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"author": "Huajin",
+	"authorUrl": "https://github.com/xhuajin",
 	"fundingUrl": "https://obsidian.md/pricing",
 	"isDesktopOnly": false
 }
